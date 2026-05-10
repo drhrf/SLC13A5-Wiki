@@ -1,0 +1,13 @@
+# Obsidian workspace files
+.obsidian/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
