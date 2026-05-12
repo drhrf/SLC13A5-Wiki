@@ -15,10 +15,10 @@ The wiki organizes all available evidence about SLC13A5 into 27 structured nodes
 
 Every substantive claim in every node file carries an explicit epistemic label:
 
-- **✅ Established** — supported by at least two independent studies using different methods; no credible contrary evidence
-- **🔶 Emerging** — supported by at least one adequately-powered primary study; not yet independently replicated or replicated only in a related system
-- **💡 Speculative** — mechanistically motivated and internally coherent, but resting on inference from different systems, developmental stages, or species; no direct measurement in the relevant context
-- **❓ Unknown** — the relevant measurement has not been made; the question is open rather than contested
+- **Established** — supported by at least two independent studies using different methods; no credible contrary evidence
+- **Emerging** — supported by at least one adequately-powered primary study; not yet independently replicated or replicated only in a related system
+- **Speculative** — mechanistically motivated and internally coherent, but resting on inference from different systems, developmental stages, or species; no direct measurement in the relevant context
+- **Unknown** — the relevant measurement has not been made; the question is open rather than contested
 
 Internal contradictions between sources are not averaged into a single label. They are registered explicitly in `SLC13A5-Wiki/Tier2-Pathways/CONTESTED-CLAIMS.md` with both sources, mechanism-level reasoning, and the evidence needed for resolution.
 
