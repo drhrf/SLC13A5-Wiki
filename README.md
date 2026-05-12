@@ -78,7 +78,7 @@ SLC13A5 encodes NaCT (sodium-coupled citrate transporter), the primary route for
 > Freitas HR et al. (2026). SLC13A5 Evidence Synthesis Wiki, v1.0. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 **The reference paper:**
-> Freitas HR et al. (2026). A structured epistemic knowledge graph for hypothesis generation in rare disease research: proof of concept in SLC13A5 citrate transporter disorder (DEE25). *Orphanet Journal of Rare Diseases*. [DOI to be assigned]
+> Freitas HR et al. (2026). A structured epistemic knowledge graph for hypothesis generation in rare disease research: proof of concept in SLC13A5 citrate transporter disorder (DEE25). *Under review*. [DOI to be assigned]
 
 If you apply the framework specification to a different gene, please cite the reference paper and note the gene and disease in your acknowledgments.
 
