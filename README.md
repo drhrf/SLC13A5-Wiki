@@ -5,7 +5,7 @@
 
 A structured epistemic knowledge graph for SLC13A5 (NaCT, sodium-coupled citrate transporter), built as the proof-of-concept application of a generalizable framework for hypothesis generation in rare disease research.
 
-**Reference paper:** Freitas HR et al. "A structured epistemic knowledge graph for hypothesis generation in rare disease research: proof of concept in SLC13A5 citrate transporter disorder (DEE25)." *under review*. Preprint: [bioRxiv DOI — to be added at submission]
+**Reference paper:** Freitas HR et al. "A structured epistemic knowledge graph for hypothesis generation in rare disease research: proof of concept in SLC13A5 citrate transporter disorder (DEE25)". *Under review*. Preprint: [bioRxiv DOI — to be added at submission]
 
 ---
 
@@ -75,7 +75,7 @@ SLC13A5 encodes NaCT (sodium-coupled citrate transporter), the primary route for
 ## How to cite
 
 **The framework (this repository):**
-> Freitas HR et al. (2026). SLC13A5 Evidence Synthesis Wiki, v1.0. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Freitas HR et al. (2026). SLC13A5 Evidence Synthesis Wiki, v1.0. Zenodo. https://doi.org/10.5281/zenodo.20171955
 
 **The reference paper:**
 > Freitas HR et al. (2026). A structured epistemic knowledge graph for hypothesis generation in rare disease research: proof of concept in SLC13A5 citrate transporter disorder (DEE25). *Under review*. [DOI to be assigned]
